@@ -20,7 +20,6 @@
 ### Open the project in the IDE
 
 -----------------------------------------------
------------------------------------------------
 
 
 # quarkus-springdatajpa-conference project
